@@ -1,4 +1,4 @@
-# SOil Moisture Monitoring system 
+# Soil Moisture Monitoring system 
 Soil Moisture Monitoring system provides information about the water moisture status of the soil.
 1.	It helps farmers to maintain soil moisture and health of plants.
 2. It helps farmers to understand the actual soil water condition. 
