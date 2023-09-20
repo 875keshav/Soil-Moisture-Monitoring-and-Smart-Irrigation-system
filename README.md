@@ -17,6 +17,15 @@ In the absence of Soil Moisture Monitoring system, it leads to poor yield and un
 2.	To collect data from the sensor for irrigation-based data analysis.
 3.	To analyse the collected data and implementation of machine learning algorithms to develope an optimal model for taking decision when to irrigate or when to not.
 5.  Deploying a Streamlit web application which helps in continuously monitoring the soil mositure status and helps in predicting when to irrigate or when to not irriagte the field.
+# Curcuit Diagram
+![image](https://github.com/875keshav/Soil-Moisture-Monitoring-and-Smart-Irrigation-system/assets/126338618/31a92b62-2584-4735-83c8-ff662a756baf)
+
+# Data Transferring to Thingspeak Server
+![image](https://github.com/875keshav/Soil-Moisture-Monitoring-and-Smart-Irrigation-system/assets/126338618/24b441d1-a181-4cf3-b23e-569146523b38)
+
+# Collected data at thingspeak server
+![image](https://github.com/875keshav/Soil-Moisture-Monitoring-and-Smart-Irrigation-system/assets/126338618/0197ceb6-f429-4c1d-809c-4b53928ac77c)
+
 # Result
 ## Smart Irrigation System
 Smart Irrigation system named as "MridaMitra" is a Streamlit web Application that takes takes the continuous data from a soil moisture monitoring system. This soil mositure monitoring system uses soil moisture sensors, DHT11 Temperature and Humidity sensor to measure the soil moisture status, surrounding temperature and humidity.
